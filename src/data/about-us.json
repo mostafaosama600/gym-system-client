@@ -1,0 +1,25 @@
+{
+  "cards": [
+    {
+      "id": 73930892,
+      "title": "الأسعار",
+      "decription": "مع الموقع اسعارنا تفرق معك",
+      "firstimage": "/money.svg",
+      "arrow": "/arrow.svg"
+    },
+    {
+      "id": 73930469,
+      "title": "تهمنا سلامتك",
+      "decription": "يتم مراقبة جميع الرحلات من قبل فريقنا وقنوات التواصل مفتوحة في حال حدوث اي مكروه .. سلامتك تهمنا مع رايد",
+      "firstimage": "/trusted.svg",
+      "arrow": "/arrow.svg"
+    },
+        {
+      "id": 73930385,
+      "title": "24/7 دعم",
+      "decription": "فريقنا متواجد لخدمتك في حال واجهتك اي مشكلة اثناء رحلتك",
+      "firstimage": "/headset.svg",
+      "arrow": "/arrow.svg"
+    }
+  ]
+}

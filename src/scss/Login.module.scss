@@ -1,0 +1,21 @@
+@use "./screens/mobile";
+
+.rightside{
+    background: white;
+    .boxofinputslogin{
+        background: white;
+    }
+}
+
+.leftside{
+    background: var(--orange);
+    .boxofimagelogin{
+        background: var(--orange);
+        height: 100vh;
+        .boxofimagecentration{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}

@@ -1,0 +1,36 @@
+@use "../screens/mobile";
+
+.button {
+    background: var(--orange);
+    color: var(--white);
+    padding: 10px 20px;
+    border-radius: 14px;
+    border: 1px solid var(--orange);
+    
+    &:hover {
+        border: 1px solid var(--orange);
+        background: var(--orange);
+        color: var(--white);
+    }
+}
+.mainBtn {
+    @extend .button;
+}
+.primaryBtn {
+    @extend .button;
+    background: transparent;
+    color: var(--orange);
+    border: 1px solid var(--orange);
+    &:hover {
+        border: 1px solid var(--orange);
+        color: var(--orange);
+    }
+}
+.sendBtn {
+    @extend .button;
+    display: flex;
+    align-items: right;
+    text-align: right;
+    justify-content: right !important;
+    width: 21%;
+}

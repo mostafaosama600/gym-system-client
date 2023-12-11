@@ -1,0 +1,58 @@
+@use "./screens/mobile";
+
+
+.homesectionimages{
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+}
+.extratext{
+    font-size: 40px;
+    z-index: 2 !important;
+}
+.svgcirclelarge{
+    width: 75px;
+    position: absolute;
+    top: 75px;
+    left: 138px;
+}
+.svgcirclemedium{
+    width: 55px;
+    position: absolute;
+    top: 140px;
+    right: -10px;
+}
+.svgcirclesmall{
+    width: 55px;
+    position: absolute;
+    bottom: 50px;
+    left: 110px;
+}
+
+// animations for circles
+
+@keyframes circleAnimation {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.5);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.svgcirclelarge {
+    animation: circleAnimation 2s infinite;
+}
+
+.svgcirclemedium {
+    animation: circleAnimation 2s infinite reverse;
+}
+
+.svgcirclesmall {
+    animation: circleAnimation 2s infinite;
+}

@@ -1,0 +1,54 @@
+@media only screen and (max-width: 600px) {
+    .button {
+        padding: 8px !important;
+        font-size: 14px !important;
+        border-radius: 8px !important;
+    }
+    .extratext {
+        font-size: 25px !important;
+        margin: 0px !important;
+    }
+    .boxofcontact{
+        margin: 0 !important;
+        .cardbody {
+            margin: 0 !important;
+        }
+    }
+
+    #item1 {
+        order: 1 !important;
+    }
+    #item2 {
+        order: 2 !important;
+    }
+    #item3 {
+        order: 3 !important;
+    }
+    #item4 {
+        order: 4 !important;
+    }
+    .onmobile{
+        display: none;
+    }
+    .footercontent {
+        justify-content: center !important;
+        padding-top: 15px !important;
+    }
+    .circlesonresbonsive{
+        width: 100%;
+        height: 88vh;
+    }
+    .svgarrowofapp,.imgonres{
+        display: none !important;
+    }
+    .svgmobilephone {
+        right: 40px !important;
+    }
+    .boxofimagelogin {
+        height: 50vh !important;
+    }
+    .widthonresponsive{
+        width: 100% !important;
+        background: var(--light);
+    }
+}

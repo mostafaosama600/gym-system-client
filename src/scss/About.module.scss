@@ -1,0 +1,23 @@
+.card {
+    border-radius: 0;
+    background: none;
+    &:hover {
+        background: var(--light);
+        border-radius: 0;
+        transition: all 0.3s ease;
+    }
+}
+
+.text{
+    color: #737373;
+    margin: 25px 0;
+}
+.container{
+    position: relative;
+    .svgcircle{
+        position: absolute;
+        float: right;
+        right: 0;
+        top: 20px;
+    }
+}

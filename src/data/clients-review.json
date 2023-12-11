@@ -1,0 +1,35 @@
+{
+  "cards": [
+    {
+      "id": 81900000,
+      "clientname": "محمد",
+      "role": "عميل",
+      "decription": "تطبيق جميل جدا و سهل الإستخدام",
+      "quotes": "/quotes.svg",
+      "background": "/background.svg",
+      "stars": "/stars.svg",
+      "circles": "/circles.svg"
+
+    },
+    {
+      "id": 82900334,
+      "clientname": "محمد",
+      "role": "عميل",
+      "decription": "تطبيق جميل جدا و سهل الإستخدام",
+      "quotes": "/quotes.svg",
+      "background": "/background.svg",
+      "stars": "/stars.svg",
+      "circles": "/circles.svg"
+    },
+        {
+      "id": 87900498,
+      "clientname": "محمد",
+      "role": "عميل",
+      "decription": "تطبيق جميل جدا و سهل الإستخدام",
+      "quotes": "/quotes.svg",
+      "background": "/background.svg",
+      "stars": "/stars.svg",
+      "circles": "/circles.svg"
+    }
+  ]
+}

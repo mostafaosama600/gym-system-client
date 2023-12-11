@@ -1,0 +1,15 @@
+@use "./screens/mobile";
+
+
+.productimage{
+    border-radius: 4px 4px 0px 0px;
+    width: 100%;
+    height: 40vh;
+}
+.detailsofproduct{
+    .buttonofdetails{
+        padding: 5px 8px;
+        border-radius: 4px;
+        font-size: 12px;
+    }
+}

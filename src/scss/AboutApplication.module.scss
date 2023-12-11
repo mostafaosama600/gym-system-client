@@ -1,0 +1,22 @@
+@use "./screens/mobile";
+
+
+.containerofmobile{
+    position: relative;
+    display: flex;
+    background-color: var(--orange);
+    .svgmobilephone{
+        text-align: right;
+        position: absolute;
+        top: 0;
+        right: 120px;
+    }
+
+    .svgarrowofapp{
+        position: absolute;
+        bottom: 70px;
+        right: 20px;
+        width: 20px;
+    }
+}
+

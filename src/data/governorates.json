@@ -1,0 +1,526 @@
+{
+    "governorates": [
+        {
+            "_id": "655c7c4fd54a06b37585e417",
+            "arName": "محافظة الداخلية",
+            "enName": "Interior Governorate",
+            "states": [
+                {
+                    "_id": "655c7c4fd54a06b37585e418",
+                    "governorate": "655c7c4fd54a06b37585e417",
+                    "arName": "ولاية نزوى",
+                    "enName": "Nizwa Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c4fd54a06b37585e419",
+                    "governorate": "655c7c4fd54a06b37585e417",
+                    "arName": "ولاية سمائل",
+                    "enName": "Sumail Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c4fd54a06b37585e41a",
+                    "governorate": "655c7c4fd54a06b37585e417",
+                    "arName": "ولاية أدم",
+                    "enName": "Adam Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c4fd54a06b37585e41b",
+                    "governorate": "655c7c4fd54a06b37585e417",
+                    "arName": "ولاية الحمراء",
+                    "enName": "Al Hamra Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c4fd54a06b37585e41c",
+                    "governorate": "655c7c4fd54a06b37585e417",
+                    "arName": "ولاية منح",
+                    "enName": "Manah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c4fd54a06b37585e41d",
+                    "governorate": "655c7c4fd54a06b37585e417",
+                    "arName": "ولاية إزكي",
+                    "enName": "Izki Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c4fd54a06b37585e41e",
+                    "governorate": "655c7c4fd54a06b37585e417",
+                    "arName": "ولاية بدبد",
+                    "enName": "Bidbid Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c4fd54a06b37585e41f",
+                    "governorate": "655c7c4fd54a06b37585e417",
+                    "arName": "ولاية الجبل الأخضر",
+                    "enName": "Al Jabal Al Akhdar Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c50d54a06b37585e421",
+            "arName": "محافظة الظاهرة",
+            "enName": "Ad Dhahirah Governorate",
+            "states": [
+                {
+                    "_id": "655c7c50d54a06b37585e422",
+                    "governorate": "655c7c50d54a06b37585e421",
+                    "arName": "ولاية عبري",
+                    "enName": "Ibri Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e423",
+                    "governorate": "655c7c50d54a06b37585e421",
+                    "arName": "ولاية ينقل",
+                    "enName": "Yanqul Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e424",
+                    "governorate": "655c7c50d54a06b37585e421",
+                    "arName": "ولاية ضنك",
+                    "enName": "Dhank Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c50d54a06b37585e426",
+            "arName": "محافظة شمال الباطنة",
+            "enName": "North Al Batinah Governorate",
+            "states": [
+                {
+                    "_id": "655c7c50d54a06b37585e427",
+                    "governorate": "655c7c50d54a06b37585e426",
+                    "arName": "ولاية صحار",
+                    "enName": "Sohar Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e428",
+                    "governorate": "655c7c50d54a06b37585e426",
+                    "arName": "ولاية شناص",
+                    "enName": "Shinas Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e429",
+                    "governorate": "655c7c50d54a06b37585e426",
+                    "arName": "ولاية لوى",
+                    "enName": "Liwa Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e42a",
+                    "governorate": "655c7c50d54a06b37585e426",
+                    "arName": "ولاية صحم",
+                    "enName": "Saham Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e42b",
+                    "governorate": "655c7c50d54a06b37585e426",
+                    "arName": "ولاية الخابورة",
+                    "enName": "Al Khabourah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e42c",
+                    "governorate": "655c7c50d54a06b37585e426",
+                    "arName": "ولاية السويق",
+                    "enName": "Suhar Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c50d54a06b37585e436",
+            "arName": "محافظة البريمي",
+            "enName": "Al Buraimi Governorate",
+            "states": [
+                {
+                    "_id": "655c7c50d54a06b37585e437",
+                    "governorate": "655c7c50d54a06b37585e436",
+                    "arName": "ولاية البريمي",
+                    "enName": "Al Buraimi Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e438",
+                    "governorate": "655c7c50d54a06b37585e436",
+                    "arName": "ولاية محضة",
+                    "enName": "Mahdah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e439",
+                    "governorate": "655c7c50d54a06b37585e436",
+                    "arName": "ولاية السنينة",
+                    "enName": "Al Sinainah Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c50d54a06b37585e43b",
+            "arName": "محافظة الوسطى",
+            "enName": "Al Wusta Governorate",
+            "states": [
+                {
+                    "_id": "655c7c50d54a06b37585e43c",
+                    "governorate": "655c7c50d54a06b37585e43b",
+                    "arName": "ولاية هيما",
+                    "enName": "Hima Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e43d",
+                    "governorate": "655c7c50d54a06b37585e43b",
+                    "arName": "ولاية الدقم",
+                    "enName": "Duqm Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e43e",
+                    "governorate": "655c7c50d54a06b37585e43b",
+                    "arName": "ولاية محوت",
+                    "enName": "Mahout Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e43f",
+                    "governorate": "655c7c50d54a06b37585e43b",
+                    "arName": "ولاية الجازر",
+                    "enName": "Al Jazer Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c50d54a06b37585e441",
+            "arName": "محافظة شمال الشرقية",
+            "enName": "North Al Sharqiyah Governorate",
+            "states": [
+                {
+                    "_id": "655c7c50d54a06b37585e442",
+                    "governorate": "655c7c50d54a06b37585e441",
+                    "arName": "ولاية إبراء",
+                    "enName": "Ibra Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e443",
+                    "governorate": "655c7c50d54a06b37585e441",
+                    "arName": "ولاية المضيبي",
+                    "enName": "Al Mudhaibi Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e444",
+                    "governorate": "655c7c50d54a06b37585e441",
+                    "arName": "ولاية بدية",
+                    "enName": "Badiyah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e445",
+                    "governorate": "655c7c50d54a06b37585e441",
+                    "arName": "ولاية وادي بني خالد",
+                    "enName": "Wadi Bani Khalid Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e446",
+                    "governorate": "655c7c50d54a06b37585e441",
+                    "arName": "ولاية دماء والطائيين",
+                    "enName": "Dima W'al Tayyin Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e447",
+                    "governorate": "655c7c50d54a06b37585e441",
+                    "arName": "ولاية القابل",
+                    "enName": "Al Qabil Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e448",
+                    "governorate": "655c7c50d54a06b37585e441",
+                    "arName": "ولاية سناو",
+                    "enName": "Sinaw Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c51d54a06b37585e45d",
+            "arName": "محافظة مسقط",
+            "enName": "Muscat Governorate",
+            "states": [
+                {
+                    "_id": "655c7c51d54a06b37585e45e",
+                    "governorate": "655c7c51d54a06b37585e45d",
+                    "arName": "ولاية مسقط",
+                    "enName": "Muscat Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e45f",
+                    "governorate": "655c7c51d54a06b37585e45d",
+                    "arName": "ولاية مطرح",
+                    "enName": "Mutrah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e460",
+                    "governorate": "655c7c51d54a06b37585e45d",
+                    "arName": "ولاية بوشر",
+                    "enName": "Bawshar Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e461",
+                    "governorate": "655c7c51d54a06b37585e45d",
+                    "arName": "ولاية السيب",
+                    "enName": "Seeb Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e462",
+                    "governorate": "655c7c51d54a06b37585e45d",
+                    "arName": "ولاية العامرات",
+                    "enName": "Al Amerat Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e463",
+                    "governorate": "655c7c51d54a06b37585e45d",
+                    "arName": "ولاية قريات",
+                    "enName": "Qurayyat Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c51d54a06b37585e44a",
+            "arName": "محافظة جنوب الشرقية",
+            "enName": "South Al Sharqiyah Governorate",
+            "states": [
+                {
+                    "_id": "655c7c51d54a06b37585e44b",
+                    "governorate": "655c7c51d54a06b37585e44a",
+                    "arName": "ولاية مصيرة",
+                    "enName": "Masirah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e44c",
+                    "governorate": "655c7c51d54a06b37585e44a",
+                    "arName": "ولاية صور",
+                    "enName": "Sur Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e44d",
+                    "governorate": "655c7c51d54a06b37585e44a",
+                    "arName": "ولاية جعلان بني بو حسن",
+                    "enName": "Ja'alan Bani Bu Hassan Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e44e",
+                    "governorate": "655c7c51d54a06b37585e44a",
+                    "arName": "ولاية جعلان بني بو علي",
+                    "enName": "Ja'alan Bani Bu Ali Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e44f",
+                    "governorate": "655c7c51d54a06b37585e44a",
+                    "arName": "ولاية الكامل والوافي",
+                    "enName": "Al Kamil W'al Wafi Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c51d54a06b37585e451",
+            "arName": "محافظة ظفار",
+            "enName": "Dhofar Governorate",
+            "states": [
+                {
+                    "_id": "655c7c51d54a06b37585e452",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية صلالة",
+                    "enName": "Salalah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e453",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية طاقة",
+                    "enName": "Taqah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e454",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية مرباط",
+                    "enName": "Mirbat Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e455",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية ثمريت",
+                    "enName": "Thumrait Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e456",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية سدح",
+                    "enName": "Sadah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e457",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية رخيوت",
+                    "enName": "Rakhyut Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e458",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية ضلكوت",
+                    "enName": "Dalkut Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e459",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية مقشن",
+                    "enName": "Mughsayl Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e45a",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية شليم وجزر الحلانيات",
+                    "enName": "Shalim and Halaniyat Islands Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e45b",
+                    "governorate": "655c7c51d54a06b37585e451",
+                    "arName": "ولاية المزيونة",
+                    "enName": "Al Mazyunah Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c51d54a06b37585e465",
+            "arName": "محافظة مسندم",
+            "enName": "Musandam Governorate",
+            "states": [
+                {
+                    "_id": "655c7c51d54a06b37585e466",
+                    "governorate": "655c7c51d54a06b37585e465",
+                    "arName": "ولاية خصب",
+                    "enName": "Khasab Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e467",
+                    "governorate": "655c7c51d54a06b37585e465",
+                    "arName": "ولاية بخا",
+                    "enName": "Bukha Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e468",
+                    "governorate": "655c7c51d54a06b37585e465",
+                    "arName": "ولاية دباء",
+                    "enName": "Dibba Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c51d54a06b37585e469",
+                    "governorate": "655c7c51d54a06b37585e465",
+                    "arName": "ولاية مدحاء",
+                    "enName": "Madha Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "655c7c50d54a06b37585e42e",
+            "arName": "محافظة جنوب الباطنة",
+            "enName": "South Al Batinah Governorate",
+            "states": [
+                {
+                    "_id": "655c7c50d54a06b37585e42f",
+                    "governorate": "655c7c50d54a06b37585e42e",
+                    "arName": "ولاية نخل",
+                    "enName": "Nakhl Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e430",
+                    "governorate": "655c7c50d54a06b37585e42e",
+                    "arName": "ولاية وادي المعاول",
+                    "enName": "Wadi Al Ma'awel Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e431",
+                    "governorate": "655c7c50d54a06b37585e42e",
+                    "arName": "ولاية العوابي",
+                    "enName": "Al Awabi Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e432",
+                    "governorate": "655c7c50d54a06b37585e42e",
+                    "arName": "ولاية المصنعة",
+                    "enName": "Al Musannah Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e433",
+                    "governorate": "655c7c50d54a06b37585e42e",
+                    "arName": "ولاية بركاء",
+                    "enName": "Barka Governorate",
+                    "__v": 0
+                },
+                {
+                    "_id": "655c7c50d54a06b37585e434",
+                    "governorate": "655c7c50d54a06b37585e42e",
+                    "arName": "ولاية الرستاق",
+                    "enName": "Rustaq Governorate",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}

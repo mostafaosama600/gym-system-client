@@ -1,0 +1,14 @@
+@use "./screens/mobile";
+.boxofcontent{
+    position: relative !important;
+    .dots{
+        display: block;
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        position: absolute;
+        right: 465px;
+        top: 12px;
+        background: var(--orange);
+    }
+}
